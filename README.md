@@ -12,7 +12,7 @@
 <img alt="Coder GIF" align ="right"  width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
 💫 About Me:
 
-- 🎓 **Education:** BTech CSE at MIT ADT UNIVERSITY  
+- 🎓 **Education:** BTech CSE at **MIT ADT UNIVERSITY**  
 
 - 🌱 **Currently Learning:** Java,Python,MERN,AIML,C,C++,IoT 
 
