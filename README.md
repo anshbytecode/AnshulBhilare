@@ -9,7 +9,7 @@
 
 ## Who I am -
 
-<img alt="Coder GIF" align ="right"  width="400" src="https://drive.google.com/file/d/1J-BFDRDBwF5PGlHB31mJrUCYFFrDbS4a/view?usp=sharing" />
+<img alt="Coder GIF" align ="right"  width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
 💫 About Me:
 
 - 🎓 **Education:** Btech CSE at MIT ADT UNIVERSITY  
