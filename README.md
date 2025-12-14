@@ -18,10 +18,9 @@
 
 - 💬 **Ask Me About:** HTML, CSS, Js, React ,JAVA,Python,AIML
 
-- ⚡ **Fun Fact:** Aspiring CSE Professional
 
 - 🌐 Finalist At IIT Delhi Bizthon Hackathon
-- Attended various Competitions at IIT Bombay
+- ⚡ Attended various Competitions at IIT Bombay
 
 - 📍 **Location:** Pune,Maharashtra,India 
 
