@@ -72,24 +72,9 @@
 
 
 
-## 📈 GitHub Stats:
-<div align="center">
-   
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Anuragsrivastava508&theme=dark&hide_border=false" width="400" height="200"/>  
-  
-</div>
-
----
-
-<!-- ════════════ 👁️ VISITOR COUNT ════════════ -->
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="25" /> Profile Visitors
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Anuragsrivastava508&label=HITS&labelColor=%23000000&countColor=%2300b7ff)
-
-
----
 
 ## ✍️ Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
