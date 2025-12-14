@@ -12,15 +12,16 @@
 <img alt="Coder GIF" align ="right"  width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"  />
 💫 About Me:
 
-- 🎓 **Education:** Btech CSE at MIT ADT UNIVERSITY  
+- 🎓 **Education:** BTech CSE at MIT ADT UNIVERSITY  
 
-- 🌱 **Currently Learning:** Full Stack Web Development (MERN), Operating Systems & DSA with Java  
+- 🌱 **Currently Learning:** Java,Python,MERN,AIML,C,C++,IoT 
 
-- 💬 **Ask Me About:** HTML, CSS, JavaScript, React & Bootstrap ,JAVA,Python,AIML
+- 💬 **Ask Me About:** HTML, CSS, Js, React ,JAVA,Python,AIML
 
-- ⚡ **Fun Fact:** Tech enthusiast with a passion for programming and innovation  
+- ⚡ **Fun Fact:** Aspiring CSE Professional
 
-- 🌐 Open Source Contributor at Social Summer of Code 2025
+- 🌐 Finalist At IIT Delhi Bizthon Hackathon
+- Attended various Competitions at IIT Bombay
 
 - 📍 **Location:** Pune,Maharashtra,India 
 
